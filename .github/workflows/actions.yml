@@ -1,0 +1,8 @@
+name: actions
+# run-name: ${{ github.actor }} is testing
+on: [push]
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - run: py -m build
