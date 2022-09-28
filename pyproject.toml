@@ -1,0 +1,22 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "fast_rackoon"
+version = "0.0.1"
+authors = [
+    { name="Thang Doan", email="thangdoan.dev@gmail.com" },
+]
+description = "A Fast API package for Rackoon Microservices"
+readme = "README.md"
+requires-python = ">=3.10"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent"
+]
+
+[project.urls]
+"Homepage" = "https://github.com/pypa/fast_rackoon"
+"Bug Tracker" = "https://github.com/pypa/fast_rackoon/issues"

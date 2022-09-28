@@ -1,0 +1,9 @@
+LICENSE
+README.md
+pyproject.toml
+src/fast_rackoon/__init__.py
+src/fast_rackoon/test_file.py
+src/fast_rackoon.egg-info/PKG-INFO
+src/fast_rackoon.egg-info/SOURCES.txt
+src/fast_rackoon.egg-info/dependency_links.txt
+src/fast_rackoon.egg-info/top_level.txt
